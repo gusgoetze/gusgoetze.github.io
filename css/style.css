@@ -484,7 +484,20 @@ a:visited {
     height: 100%;
     width: 100%;
     object-fit: contain;
+    -webkit-transition: all 1s ease; /* Safari and Chrome */
+    -moz-transition: all 1s ease; /* Firefox */
+    -ms-transition: all 1s ease; /* IE 9 */
+    -o-transition: all 1s ease; /* Opera */
+    transition: all 1s ease;
 }
+.background-image{
+    -webkit-transform:scale(1.15); /* Safari and Chrome */
+    -moz-transform:scale(1.15); /* Firefox */
+    -ms-transform:scale(1.15); /* IE 9 */
+    -o-transform:scale(1.15); /* Opera */
+     transform:scale(1.15);
+}
+    
 .square-thumbs li {
     height: 285px;
 }
@@ -508,20 +521,6 @@ a:visited {
 .portfolio-sorting {
     padding-left: 15px;
     font-family: 'Open Sans', sans-serif;
-    -webkit-transition: all 1s ease; /* Safari and Chrome */
-    -moz-transition: all 1s ease; /* Firefox */
-    -ms-transition: all 1s ease; /* IE 9 */
-    -o-transition: all 1s ease; /* Opera */
-    transition: all 1s ease;
-}
-.portfolio-sorting li a:hover{
-    /* ADDED IN */
-    
-    -webkit-transform: scale (1.15);
-    -moz-transform: scale (1.15);
-    -ms-transform: scale (1.15);
-    -o-transform: scale (1.15);
-    transform: scale (1.15);
 }
 .portfolio-sorting li a.active {
     border-bottom: 2px solid #222;
