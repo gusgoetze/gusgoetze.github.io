@@ -563,7 +563,7 @@ a:visited {
 }
 .rw-words{
 	display: inline;
-	text-indent: 10px;
+	text-indent: 30px; /* orignal is 10pz*/
 }
 .rw-words-1 span{
 	position: absolute;
