@@ -550,16 +550,17 @@ a:visited {
 	margin: 110px auto 0 auto;
 	font-family: 'Raleway';
 	padding: 10px;
+	text-align: center;
 }
 .rw-sentence{
 	margin: 0;
-	text-align: left;
+	text-align: center;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
 }
 .rw-sentence span{
 	color: #444;
 	font-size: 133%;
-	font-weight: light;
+	font-weight: normal;
 }
 .rw-words{
 	display: inline;
