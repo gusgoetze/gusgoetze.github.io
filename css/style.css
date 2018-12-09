@@ -628,6 +628,30 @@ a:visited {
 	animation-delay: 27s; 
 	color: #9b6b9d;
 }
+.rw-words-1 span:nth-child(11) { 
+    -webkit-animation-delay: 30s; 
+	-ms-animation-delay: 30s; 
+	animation-delay: 30s; 
+	color: #9b6b9d;
+}
+.rw-words-1 span:nth-child(12) { 
+    -webkit-animation-delay: 33s; 
+	-ms-animation-delay: 33s; 
+	animation-delay: 33s; 
+	color: #9b6b9d;
+}
+.rw-words-1 span:nth-child(13) { 
+    -webkit-animation-delay: 36s; 
+	-ms-animation-delay: 36s; 
+	animation-delay: 36s; 
+	color: #9b6b9d;
+}
+.rw-words-1 span:nth-child(14) { 
+    -webkit-animation-delay: 39s; 
+	-ms-animation-delay: 39s; 
+	animation-delay: 39s; 
+	color: #9b6b9d;
+}
 @-webkit-keyframes rotateWord {
     0% { opacity: 0; }
     2% { opacity: 0; -webkit-transform: translateY(-30px); }
