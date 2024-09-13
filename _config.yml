@@ -1,28 +1,28 @@
-# Site settings
+#Site Settings
 title: Gus Site # site title
 description: >- # site description
-  Test Description test test
+  A place to store my thoughts
 lang: en-US # default lang
-timezone: Chicago # set your timezone
+timezone: America/Chicago # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/gusgoetze/gusgoetze.github.io # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Gus Goetze # author name
   bio: >- # tell to the world
-    Test description here
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    Contemplative Explorations
+  username: gusgoetze # general username
+  github: gusgoetze # github username
+  twitter: gusgoetze # twitter username
+  linkedin: gusgoetze # facebook username
+  email: gusg.goetze@gmail.com@email.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: "https://gusgoetze.github.io" #
-baseurl:
+#baseurl: gusgoetze.com
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
