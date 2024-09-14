@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Gus Goetze # author name
   bio: >- # tell to the world
-    Contemplative Explorations
+    Contemxplative Explorations
   username: gusgoetze # general username
   github: gusgoetze # github username
   twitter: gusgoetze # twitter username
@@ -85,6 +85,5 @@ exclude:
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
