@@ -1,5 +1,5 @@
 #Site Settings
-title: Gus Site # site title
+title: Gus Goetze # site title
 description: >- # site description
   A place to store my thoughts
 lang: en-US # default lang
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Gus Goetze # author name
   bio: >- # tell to the world
-    Contemxplative Explorations
+    A collection of contemplative explorations
   username: gusgoetze # general username
   github: gusgoetze # github username
   twitter: gusgoetze # twitter username
@@ -22,7 +22,7 @@ author:
 
 # URL settings
 url: "https://gusgoetze.github.io" #
-#baseurl: gusgoetze.com
+baseurl: ""
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

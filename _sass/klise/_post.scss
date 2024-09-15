@@ -52,9 +52,9 @@
     margin-right: 1.5em;
 
     &::after {
-      background: $light;
-      bottom: 1px;
-      content: " ";
+      /* background: 1px dotted light; */
+      bottom: px;
+      content: "";
       height: 2px;
       position: absolute;
       right: -20px;
@@ -63,7 +63,7 @@
   }
 
   span[itemprop="author"] {
-    border-bottom: 1px dotted $light;
+   /* border-bottom: 1px dotted $light; */
   }
 }
 
