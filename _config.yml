@@ -87,3 +87,4 @@ exclude:
 plugins:
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-feed
