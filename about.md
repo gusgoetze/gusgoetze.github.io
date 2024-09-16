@@ -8,8 +8,17 @@ comments: false
   <img class="author-avatar" src="/assets/img/avatar.jpg" alt="gusgoetze" />
   <h2 class="author-name">Gus Goetze</h2>
 </div>
-Lorem ipsum odor amet, consectetuer adipiscing elit. Posuere eros vulputate ante, dui ipsum viverra integer. Dictumst pharetra dis porttitor arcu accumsan aenean montes. Viverra dolor vivamus ridiculus ex rutrum tempor hendrerit bibendum posuere! Inceptos tempus dolor enim lacus diam fames posuere. Velit torquent himenaeos nascetur vestibulum; volutpat tempor. Commodo nibh aliquet vestibulum commodo integer consequat? Feugiat molestie luctus pellentesque ornare ridiculus sem viverra. Leo aptent elementum eget nullam per at.
+I've owned this eponymous domain for a while. It's my plot of digital real estate with enough intrinsic value to let auto-renew run its course every year on my credit card. 
 
-Fermentum torquent sollicitudin platea viverra integer ut phasellus mus. Phasellus vehicula rutrum efficitur dis tellus aenean. Sollicitudin faucibus congue proin; maximus tincidunt efficitur. Penatibus rutrum efficitur interdum aliquam litora vestibulum. Facilisis placerat nam commodo condimentum aliquam faucibus feugiat. Nunc magna magna adipiscing odio natoque in. Torquent odio sit magnis nostra elit fusce vel. Aliquet condimentum maecenas ornare est posuere laoreet nibh sed.
+This site has seen many iterations. In college, I built a site at these internet coordinates that served as my interactive resume. For a while, it was a dead link. For a short period, I had a plain HTML landing page that routed to my LinkedIn. Now, until the next version of gusgoetze.com, I will use this space as a collection of thoughts, essays, and research. I may post once. I may post hundreds of times. I don't have plans of monetization or even sharing. It's public but without promotion. So if you found this, consider yourself a modern day treasure hunter.
 
-Ligula etiam aliquet tempus dis tempus facilisi porttitor. Fermentum urna nec justo nullam bibendum ad rutrum proin. Apenatibus mus nam eu lobortis. Tellus penatibus platea est mollis fringilla rhoncus. Viverra ex per mus etiam id. Pretium pretium suspendisse at ex parturient magnis. Inceptos a augue gravida pulvinar lectus vitae pulvinar cubilia nisi. Torquent facilisi pulvinar cubilia vulputate aenean lobortis a ligula. Magna rhoncus inceptos cursus fames quam aliquet suspendisse lacus curabitur.
+A bit about me, since that's why you're on this tab:
+
+* Based in Chicago, IL
+* Work in corporate strategy & product management
+* Fitness junkie
+* I read about technology and markets
+* I enjoy the outdoors and traveling
+* Tinkerer, mostly digital but with physical aspirations
+
+
