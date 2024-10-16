@@ -1,0 +1,351 @@
+---
+title: Training Radius
+permalink: /trainingradius/
+layout: compress
+excerpt: All posts
+comments: false
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_206f40ff42657122855ab396211914a8 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_206f40ff42657122855ab396211914a8" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_206f40ff42657122855ab396211914a8 = L.map(
+                "map_206f40ff42657122855ab396211914a8",
+                {
+                    center: [41.8781, -87.6298],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_9eda6e27fd2f3bdb7eb69b110a892f7a = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_9eda6e27fd2f3bdb7eb69b110a892f7a.addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var circle_3988076adbf7cf5fe026d2fea98d3eb2 = L.circle(
+                [41.8781, -87.6298],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1265939.0307999998, "stroke": true, "weight": 3}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+        var popup_a62a8747f75f6ec549c8ce1503cb72ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a12e61a975342bfbfb3c13fcef4ced1d = $(`<div id="html_a12e61a975342bfbfb3c13fcef4ced1d" style="width: 100.0%; height: 100.0%;">Radius: 786.62 miles</div>`)[0];
+                popup_a62a8747f75f6ec549c8ce1503cb72ac.setContent(html_a12e61a975342bfbfb3c13fcef4ced1d);
+            
+        
+
+        circle_3988076adbf7cf5fe026d2fea98d3eb2.bindPopup(popup_a62a8747f75f6ec549c8ce1503cb72ac)
+        ;
+
+        
+    
+    
+            var marker_33f5f289faa50fcda11c8175e5eb8eb5 = L.marker(
+                [51.8781, -113.6298],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var div_icon_74a897e5c61ab061a173580b5589e5e1 = L.divIcon({"className": "empty", "html": "\n        \u003cdiv style=\"\n            border: 2px solid black;\n            background-color: white;\n            padding: 5px;\n            font-size: 16px;\n            color: black;\n            text-align: center;\n            width: 140px;\"\u003e\n            Radius: 786.62 miles\n        \u003c/div\u003e\n    "});
+            marker_33f5f289faa50fcda11c8175e5eb8eb5.setIcon(div_icon_74a897e5c61ab061a173580b5589e5e1);
+        
+    
+            var marker_767ce48b2e3e261dc166401331c9fbbc = L.marker(
+                [41.8781, -87.6298],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_5ab05201e5610cd4be165b7a2c5a2268 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "black", "prefix": "glyphicon"}
+            );
+            marker_767ce48b2e3e261dc166401331c9fbbc.setIcon(icon_5ab05201e5610cd4be165b7a2c5a2268);
+        
+    
+            marker_767ce48b2e3e261dc166401331c9fbbc.bindTooltip(
+                `<div>
+                     Chicago
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6ce71c0a9f7a275cee2748e64c96d009 = L.marker(
+                [40.71427, -74.00597],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_3c08cb01be9ee2a51d19d821d769fb7b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_6ce71c0a9f7a275cee2748e64c96d009.setIcon(icon_3c08cb01be9ee2a51d19d821d769fb7b);
+        
+    
+            marker_6ce71c0a9f7a275cee2748e64c96d009.bindTooltip(
+                `<div>
+                     New York City, NY
+Population: 8,804,190
+Distance from Chicago: 712.81
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_28d6a0d29368017e14ae6ee4be3e9024 = L.marker(
+                [43.70643, -79.39864],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_d65b906c7fe8ef2bd6fd54e9d3c1d638 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_28d6a0d29368017e14ae6ee4be3e9024.setIcon(icon_d65b906c7fe8ef2bd6fd54e9d3c1d638);
+        
+    
+            marker_28d6a0d29368017e14ae6ee4be3e9024.bindTooltip(
+                `<div>
+                     Toronto, Canada
+Population: 2,600,000
+Distance from Chicago: 436.85
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0b1ea9b95d7cf8ad13beec05c4755c42 = L.marker(
+                [45.50884, -73.58781],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_4391939e32c205af5ef357e58e46c1c5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0b1ea9b95d7cf8ad13beec05c4755c42.setIcon(icon_4391939e32c205af5ef357e58e46c1c5);
+        
+    
+            marker_0b1ea9b95d7cf8ad13beec05c4755c42.bindTooltip(
+                `<div>
+                     Montreal, Canada
+Population: 1,762,949
+Distance from Chicago: 745.53
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0e74380d7c243f31d8f272422812f22d = L.marker(
+                [33.15067, -96.82361],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_49efe1b6ac83b8b2d0aefdd3ea1e56b7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_0e74380d7c243f31d8f272422812f22d.setIcon(icon_49efe1b6ac83b8b2d0aefdd3ea1e56b7);
+        
+    
+            marker_0e74380d7c243f31d8f272422812f22d.bindTooltip(
+                `<div>
+                     Frisco, TX
+Population: 154,407
+Distance from Chicago: 784.71
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_23fbbeb655259d0859199bf841f74f80 = L.marker(
+                [32.35126, -95.30106],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_aa33b3e8524c5662c321d94bc69a336d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_23fbbeb655259d0859199bf841f74f80.setIcon(icon_aa33b3e8524c5662c321d94bc69a336d);
+        
+    
+            marker_23fbbeb655259d0859199bf841f74f80.bindTooltip(
+                `<div>
+                     Tyler, TX
+Population: 103,700
+Distance from Chicago: 780.94
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_765af159fca09ea055046e248f7111d5 = L.marker(
+                [42.10148, -72.58981],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_a1ceb9966cb26b9a536a662faae8b210 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_765af159fca09ea055046e248f7111d5.setIcon(icon_a1ceb9966cb26b9a536a662faae8b210);
+        
+    
+            marker_765af159fca09ea055046e248f7111d5.bindTooltip(
+                `<div>
+                     Springfield, MA
+Population: 154,341
+Distance from Chicago: 773.55
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c4645c13a0d5e98cc10486edf5d7af07 = L.marker(
+                [49.8844, -97.14704],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_2577b8c814268da5729a564c35408a80 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c4645c13a0d5e98cc10486edf5d7af07.setIcon(icon_2577b8c814268da5729a564c35408a80);
+        
+    
+            marker_c4645c13a0d5e98cc10486edf5d7af07.bindTooltip(
+                `<div>
+                     Winnipeg, Canada
+Population: 749,607
+Distance from Chicago: 717.51
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cd40c2e6b28aec1a0e7e80a71cb9b46f = L.marker(
+                [43.70643, -79.39864],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_486ff2f8991f53f3f777fb56d1aa2c10 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_cd40c2e6b28aec1a0e7e80a71cb9b46f.setIcon(icon_486ff2f8991f53f3f777fb56d1aa2c10);
+        
+    
+            marker_cd40c2e6b28aec1a0e7e80a71cb9b46f.bindTooltip(
+                `<div>
+                     Toronto, Canada
+Population: 2,600,000
+Distance from Chicago: 436.85
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bafef3463c04a8e67541f89edafb4a10 = L.marker(
+                [35.46756, -97.51643],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_988263b4f93f0ca42fc17269e92adbda = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_bafef3463c04a8e67541f89edafb4a10.setIcon(icon_988263b4f93f0ca42fc17269e92adbda);
+        
+    
+            marker_bafef3463c04a8e67541f89edafb4a10.bindTooltip(
+                `<div>
+                     Oklahoma City, OK
+Population: 681,054
+Distance from Chicago: 692.96
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_964a823fbaa727016fa71cd68e881667 = L.marker(
+                [40.71427, -74.00597],
+                {}
+            ).addTo(map_206f40ff42657122855ab396211914a8);
+        
+    
+            var icon_b846a2041a5a275b1312171ced240c9f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_964a823fbaa727016fa71cd68e881667.setIcon(icon_b846a2041a5a275b1312171ced240c9f);
+        
+    
+            marker_964a823fbaa727016fa71cd68e881667.bindTooltip(
+                `<div>
+                     New York City, NY
+Population: 8,804,190
+Distance from Chicago: 712.81
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
