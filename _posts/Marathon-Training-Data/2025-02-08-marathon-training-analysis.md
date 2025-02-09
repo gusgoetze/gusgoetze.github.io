@@ -124,7 +124,7 @@ On average, over the course of training, I burned 933 kcal per run. Again, this 
 
 All said and done, I had 113 training runs. I covered 786.62 miles of ground. I spend 110 hours, 29 minutes, and 41 seconds slamming my feet against concrete, asphalt, gravel, dirt, grass, rubber, or anything solid beneath me. Additionally, I had spent 3 hours, 20 minutes, and 13 seconds paused at red lights, going #2 is post-Bears-game porto-potties, paused at the edge of Burnham park watching the city shine from the south, paused to rip a gel, or paused to slurp some water.
 
-It's hard to visualize 786.62 miles, so I created <a href="/TrainingRadius/" target="_blank" rel="noopener noreferrer">this map</a>. It draws a circle with a radius of equal mileage from Chicago. It shows just how far you could go if you walked - or ran - 786.62 miles in any direction, and where in North America you might end up.
+It's hard to visualize 786.62 miles, so I created <a href="/trainingradius/" target="_blank" rel="noopener noreferrer">this map</a>. It draws a circle with a radius of equal mileage from Chicago. It shows just how far you could go if you walked - or ran - 786.62 miles in any direction, and where in North America you might end up.
 
 What's coolest, though, is seeing all 113 runs web through the streets of Chicago. <a href="/2024trainingmap/" target="_blank" rel="noopener noreferrer">Here</a>, you can see shows all my running routes superimposed on one map. From the Yacht Harbor by Soldier Field, to the Dickens Greenway, from Manhattan Beach in Southern California to a 1.2 mile loop we ran a mind numbing 16 times in a row in Pigeon Forge, Tennessee, you can view all my routes in the world.
 
