@@ -1,4 +1,10 @@
 ---
 ---
 
+
+a[target="_blank"]::after {
+    content: none !important;
+}
+
 @import "main";
+
