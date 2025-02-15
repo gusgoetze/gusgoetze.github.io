@@ -7,32 +7,47 @@ description: All the services are free, a source code this site placed on github
 
 ---
 
+#### Humble Beginnings
 
-From my senior year of high school through sophomore year of college, I could inhale food without consequence. Daily breakfast burritos from the frat house chef, late-night pizza, a dozen beers before noon on a game day, the occasional home-cooked meal consisting of a pound of pasta, sauce, and cheese, whatever it was, my body would digest food like compost. No repercussions. What a dream. Looking back, it’s because I was sprouting 6 inches over those 3 years and simultaneously amassing 75 pounds of proportional bone and muscle.
+From my senior year of high school through my sophomore year of college, I could inhale food without consequence. Daily breakfast burritos from the frat house chef? No problem. Late-night pizza? Bring it on. A dozen beers before noon on a game day? barely made a dent. I could consume an entire pound of pasta loaded with sauce and cheese and feel perfectly fine the next morning. My body was a furnace, burning through calories with zero consequences.
 
-<hr>
+Looking back, I realize why - I was growing six inches over those three years and packing on 75 pounds of bone and muscle. My body needed the fuel.
 
-Like most young men during their freshman year of college, I wandered into the weight room. In packs of 3-4, we’d graze shyly around the gym, watching as upperclassmen with full beards, chalked hands, and commanding grunts, threw around 500 lbs like a paperweight. Even standing in the corner, I felt in the way. Working out wasn’t something I needed to do — I was metabolizing food at an incredibly efficient rate. I knew it was “healthy”, but so what?
 
-I lacked consistency. I probably worked out once a week, less than that if you don’t count playing pickup hoops.
+Like most college freshmen, I eventually found my way into the campus weight room. In packs of 3-4, we’d graze shyly around the gym while upperclassmen - guys will full beards, chalked hands, and intimidating grunts - tossed around 500-pound weights like they were nothing. Even standing in the corner, I felt in the way. Working out wasn’t something I needed to do; I was metabolizing food at an incredibly efficient rate. Sure, I knew working out was “healthy”, but at that point, I didn't really care.
 
-It caught up to me during sophomore year. I wasn’t _fat_, but I could no longer consume 4,000 calories per day and burn 4,000 calories by just existing. My height had topped out, so my body didn’t need as much fuel. Now, for the first time, I needed to be intentional in my fitness.  
+I had zero consistency. If you counted pickup basketball, I worked out maybe once or twice per week. Maybe.
 
-Transition to Summer 2019 and I’m living in Austin, Texas, for an internship. I became a regular at the Apple gym. Appending a workout to a day in the office provided a convenient way to ensure consistency. This would be key; reserving time every day, at the same time every day, would turn a sporadic chore into an automatic habit.
+Then sophomore year hit and my metabolism slowed down. I wasn’t _fat_, but I could no longer consume 4,000 calories per day and burn 4,000 calories by just existing. My height had plateaued (I'll take 6'3"!), and my body didn’t need that kind of fuel. For the first time, I had to be intentional about my fitness.
 
-This consistency persisted beyond the internship and into my senior year of college. I started to put on more muscle and build strength. I was still largely missing the diet component of a healthy lifestyle, but it’s hard to achieve this on a food pyramid of pizza and beer. Nonetheless, I stayed consistent in the gym.
+#### Summer 2019: The First Shift
 
-  <hr>
+That Summer, I interned in Austin, Texas, and started working out regularly at the Apple gym. It became part of my daily routine—a way to structure my day around something consistent. This was key. By making workouts automatic, I eliminated the need to debate whether or not I’d go. I just went.
 
-Then, COVID broke out and gyms shut down. I relocated from LA back to Barrington in March for an indefinite period of time. I was lucky to have access to a home gym inclusive of some dumbbells and a universal weight machine. Like most people, I also turned to the great outdoors. I started running.
+That consistency carried over into my senior year of college. I started gaining muscle and getting stronger. My diet? Still questionable. It’s hard to achieve peak nutrition when your food groups consist of pizza, beer, and whatever was left in the fridge. But at least I was in the gym.
 
-With 24 hours of daily free time as the world was shutting down, I fell down some internet rabbit holes of fitness. The “hybrid-athlete” phenomenon was one that resonated most. A hybrid-athlete is someone who lifts heavy and runs far. Now, at this point in my life, I had never run more than 2 miles in a row. So I had the first part down, but needed to start running.
 
-I bought a pair of Nike Pegasus — an egalitarian, gateway running shoe. I started. Running as fast as possible for as long as I possibly could. A strategy which, in retrospect, was stupid. My  progression went from 2 mile runs one week to 10 miles the next. A far cry from the 10% week over week increase rule of thumb. The summer was capped with a 13.1 mile run through the streets of Tower Lakes. I didn’t follow a training plan. I just wanted to see if I could do it. Without proper nutrition or hydration, I did. I finished in 1 hour and 58 minutes. Barely. [1]
+Then COVID hit. Gyms shut down, and I moved back home to Barrington indefinitely.
 
-It was during summer 2020 that I focused on fine-tuning my fitness. A focus on nutrition, recovery, and load balancing. An interest in hybrid athleticism that would continue for years. After hacking my way through 13.1 miles in September, I returned to a focus on lifting. Putting on as much strength as possible. I had no consistency in my running, and probably ran just a few times in 2021 and 2022. I was however, benching 300 lbs, squatting 405 and deadlifting 415.
+#### Spring 2020: The Running Experiment 
 
-I started running out of curiosity and necessity. It would complement my lifting, enhance my fitness, and, well, I had to because gyms were closed. My running journey wouldn’t resume until spring 2023, when I started training for my first Chicago Marathon. That’s a story for another time.
+Like most people, I adapted. I had access to a home gym with dumbbells and a weight machine, but I also took up running. With nothing but time on my hands, I fell into a fitness rabbit hole online. That’s when I discovered the “hybrid athlete” concept—someone who lifts heavy and runs far.
+
+I had the lifting part down. The running? Not so much.
+
+At that point, I had never run more than two consecutive miles. But I bought a pair of Nike Pegasus and started. My strategy? Run as fast and as far as possible. Looking back, it was stupid. My progression jumped from two miles one week to ten the next—completely ignoring the 10% weekly increase rule.
+
+That summer, I capped things off with a half marathon. No training plan, no structured prep—just sheer curiosity to see if I could do it. With zero knowledge of hydration or nutrition, I somehow finished in 1 hour and 58 minutes. Barely. [1]
+
+#### Fall 2020-2022: Strength Takes Over
+
+That summer sparked my interest in optimizing fitness—nutrition, recovery, load balancing. But after the half marathon, I pivoted back to strength training. I focused on getting as strong as possible, running only sporadically. By 2021 and 2022, I had essentially stopped running altogether.
+
+But I was strong. Bench: 300 lbs. Squat: 405 lbs. Deadlift: 415 lbs.
+
+#### Spring 2023: The Next Chapter
+
+Running had started as a mix of curiosity and necessity when gyms were closed. It wasn’t until spring 2023 that I seriously picked it back up—this time, training for my first Chicago Marathon. But that’s a story for another time.
   
 
 ✌🏼 **Gus**

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Road to 26.2, Analyzed
-date: 2025-02-08 17:00:00 +07:00
+date: 2024-10-20 17:00:00 +07:00
 modified:
 tags: [blog, fitness, running]
 description: A detailed look at my Garmin data from 5 months of marathon training.
